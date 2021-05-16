@@ -119,4 +119,5 @@ Feedstock Maintainers
 
 * [@maresb](https://github.com/maresb/)
 * [@thewchan](https://github.com/thewchan/)
+* [@vemel](https://github.com/vemel/)
 
